@@ -1,0 +1,66 @@
+.container {
+  display: flex;
+}
+
+.story {
+  width: 700px;
+  height: 40px;
+  background: rgb(228, 228, 228);
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.story:hover {
+  background-color: rgb(77, 177, 243);
+}
+
+.story-click {
+  width: 700px;
+  height: 40px;
+  margin: 5px;
+  border-radius: 5px;
+  background-color: rgb(77, 177, 243);
+}
+
+.story-description {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  background-color: rgb(228, 228, 228);
+}
+
+.story-description-items {
+  display: flex;
+  margin: 10px;
+  justify-content: space-between;
+}
+
+.story-description-items-name {
+  margin: 5px;
+}
+
+.story-details {
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  cursor: move;
+}
+
+.story-name {
+  width: 60%;
+}
+
+button {
+  font-size: 15px;
+  background-color: white;
+  color: blue;
+  padding: 7px 10px;
+  border-radius: 5px;
+  border: 1px solid blue;
+  cursor: pointer;
+}
+
+.textarea {
+  width: 90%;
+  height: 90px;
+}

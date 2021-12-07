@@ -1,0 +1,71 @@
+{
+   "data": 
+    [
+       {
+        "name":"Build login form for the UI",
+        "number":"TEST-123",
+        "state":"To-do",
+        "description":"Okay here goes the description for TEST-123",
+        "sprint":"Sprint 12.1",
+        "epic":"UI Login form feature",
+        "storyPoints":"5",
+        "assignee":"Dev 1",
+        "createdAt":"2021-02-11 10:30:00"
+       },
+       {
+        "name":"Build CSS scripts for login form",
+        "number":"TEST-456",
+        "state":"In-progress",
+        "description":"Okay here goes the description for TEST-456",
+        "sprint":"Sprint 12.1",
+         "epic":"UI Login form feature",
+        "storyPoints":"3",
+        "assignee":"Dev 2",
+        "createdAt":"2021-02-11 10:30:00"
+       },
+       {
+        "name":"Get templates for UI",
+        "number":"TEST-789",
+        "state":"Done",
+        "description":"Okay here goes the description for TEST-789",
+        "sprint":"Sprint 12.1",
+        "epic":"UI Login form feature",
+        "storyPoints":"1",
+        "assignee":"Dev 2",
+        "createdAt":"2021-02-11 10:30:00"
+       },
+       {
+         "name":"Build login form for the UI",
+         "number":"TEST-111",
+         "state":"To-do",
+         "description":"Okay here goes the description for TEST-123",
+         "sprint":"Sprint 12.1",
+         "epic":"UI Login form feature",
+         "storyPoints":"5",
+         "assignee":"Dev 1",
+         "createdAt":"2021-02-11 10:30:00"
+        },
+        {
+         "name":"Build CSS scripts for login form",
+         "number":"TEST-222",
+         "state":"In-progress",
+         "description":"Okay here goes the description for TEST-456",
+         "sprint":"Sprint 12.1",
+          "epic":"UI Login form feature",
+         "storyPoints":"3",
+         "assignee":"Dev 2",
+         "createdAt":"2021-02-11 10:30:00"
+        },
+        {
+         "name":"Get templates for UI",
+         "number":"TEST-333",
+         "state":"Done",
+         "description":"Okay here goes the description for TEST-789",
+         "sprint":"Sprint 12.1",
+         "epic":"UI Login form feature",
+         "storyPoints":"1",
+         "assignee":"Dev 2",
+         "createdAt":"2021-02-11 10:30:00"
+        }
+     ]
+}
