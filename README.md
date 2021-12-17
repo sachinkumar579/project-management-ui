@@ -8,7 +8,7 @@
 - It will launch a UI running in dev server at http://localhost:3000/
 
 ### Project details
-- This is a Project Management UI for displaying work assigned to a team . There is a filter option to check work assigned to each member and also a section
+- This is a Project Management UI for displaying work assignment and project status  . There is a filter option to check work assigned to each member and also a section
   that expands as we hover and select the item
 - UI is developed using React library and vite build tool is used for packaging of project  
 - There are 3 components 
