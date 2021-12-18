@@ -50,16 +50,6 @@
   width: 60%;
 }
 
-button {
-  font-size: 15px;
-  background-color: white;
-  color: blue;
-  padding: 7px 10px;
-  border-radius: 5px;
-  border: 1px solid blue;
-  cursor: pointer;
-}
-
 .textarea {
   width: 90%;
   height: 90px;
