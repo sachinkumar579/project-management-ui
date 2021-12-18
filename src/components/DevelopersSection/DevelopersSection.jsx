@@ -6,7 +6,7 @@ const DevelopersSection=(props)=>{
     return <div className="developers">
       {
             devs.map((data,index)=> <div className="developer-names" key={index}>
-                  <button onClick={()=>props.onSelectDevHandler(index,devs)} className={props.activeDev===index ? 'developer-active' : undefined}>
+                  <button onClick={()=>props.onSelectDevHandler(index,devs)} className={props.activeDev===index ? 'developer-active' : 'developer'}>
                         {data}
                   </button>
             </div>)
